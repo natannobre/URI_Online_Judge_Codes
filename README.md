@@ -1,1 +1,1 @@
-# URI_Online_Judge_C_codes
+# URI_Online_Judge_Codes
